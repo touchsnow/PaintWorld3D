@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "cc6d0005-65cf-44a3-8d54-1d835c16730b",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "cc6d0005-65cf-44a3-8d54-1d835c16730b@6c48a",
+      "displayName": "shop_goldicon_04",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cc6d0005-65cf-44a3-8d54-1d835c16730b"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "cc6d0005-65cf-44a3-8d54-1d835c16730b@f9941",
+      "displayName": "shop_goldicon_04",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -2,
+        "trimX": 0,
+        "trimY": 44,
+        "width": 248,
+        "height": 164,
+        "rawWidth": 248,
+        "rawHeight": 248,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cc6d0005-65cf-44a3-8d54-1d835c16730b@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "cc6d0005-65cf-44a3-8d54-1d835c16730b@f9941"
+  }
+}

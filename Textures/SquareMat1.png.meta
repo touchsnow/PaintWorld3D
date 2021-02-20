@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "be1f9806-5233-4f79-bfdd-9efcb8dbe552",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "be1f9806-5233-4f79-bfdd-9efcb8dbe552@6c48a",
+      "displayName": "SquareMat1",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "be1f9806-5233-4f79-bfdd-9efcb8dbe552"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "be1f9806-5233-4f79-bfdd-9efcb8dbe552@6c48a"
+  }
+}

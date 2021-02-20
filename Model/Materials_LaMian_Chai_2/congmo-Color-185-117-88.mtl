@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.Material",
+  "_name": "congmo-Color-185-117-88",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "HAS_SECOND_UV": true
+    }
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {}
+    }
+  ],
+  "_props": [
+    {
+      "albedoScale": {
+        "__type__": "cc.Vec3",
+        "x": 0.139133974909782,
+        "y": 0.566037774085999,
+        "z": 0.0133499456569552
+      },
+      "metallic": 0.400000005960464,
+      "roughness": 0.301511287689209,
+      "alphaThreshold": 0
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "aaf4d776-a1ca-4580-9013-c4634da1caf3",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "aaf4d776-a1ca-4580-9013-c4634da1caf3@6c48a",
+      "displayName": "DaoCaoRen",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "aaf4d776-a1ca-4580-9013-c4634da1caf3"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "aaf4d776-a1ca-4580-9013-c4634da1caf3@f9941",
+      "displayName": "DaoCaoRen",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "custom",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 4,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 468,
+        "height": 468,
+        "rawWidth": 468,
+        "rawHeight": 476,
+        "borderTop": 20,
+        "borderBottom": 20,
+        "borderLeft": 20,
+        "borderRight": 20,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "aaf4d776-a1ca-4580-9013-c4634da1caf3@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "aaf4d776-a1ca-4580-9013-c4634da1caf3@f9941"
+  }
+}

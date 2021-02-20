@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "cf0ff408-8e1f-47ec-bca4-7a693d92ffca",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "cf0ff408-8e1f-47ec-bca4-7a693d92ffca@6c48a",
+      "displayName": "ExplosionRing",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cf0ff408-8e1f-47ec-bca4-7a693d92ffca"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "cf0ff408-8e1f-47ec-bca4-7a693d92ffca@6c48a"
+  }
+}

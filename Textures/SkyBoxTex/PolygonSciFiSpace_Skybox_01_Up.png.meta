@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "510e0d06-9b7d-4a21-bf27-bc3f8c90905c",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "510e0d06-9b7d-4a21-bf27-bc3f8c90905c@6c48a",
+      "displayName": "PolygonSciFiSpace_Skybox_01_Up",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "510e0d06-9b7d-4a21-bf27-bc3f8c90905c"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "510e0d06-9b7d-4a21-bf27-bc3f8c90905c@6c48a"
+  }
+}

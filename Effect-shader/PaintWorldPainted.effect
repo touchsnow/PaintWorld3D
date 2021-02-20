@@ -1,0 +1,204 @@
+// Effect Syntax Guide: https://github.com/cocos-creator/docs-3d/blob/master/zh/material-system/effect-syntax.md
+
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+    - vert: phong-vs:vert
+      frag: phong-fs:frag
+      properties: &props
+        albedoScale: { value: [1.0, 1.0, 1.0, 1.0] }
+        gloss:  { value: 20 , target: Gloss,inspector : { displayName : "Gloss" }}
+        colorR:  { value: 1 , target: ColorR,inspector : { displayName : "ColorR" }}
+        colorG:  { value: 1 , target: ColorG,inspector : { displayName : "ColorG" }}
+        colorB:  { value: 1 , target: ColorB,inspector : { displayName : "ColorB" }}
+        saturation:  { value: 1 , target: Saturation,inspector : { displayName : "Hue" }}
+        value:  { value: 1 , target: Value,inspector : { displayName : "Value" }}
+        diffuse:  { value: 1 , target: Diffuse,inspector : { displayName : "Diffuse" }}
+        mainColor:      { value: [1.0, 1.0, 1.0, 1.0], target: albedo, editor: { displayName: Albedo, type: color } }
+        specularColor :      { value: [1.0, 1.0, 1.0, 1.0], target: specular, editor: { displayName: SpecularColor, type: color } }
+  - name: transparent
+    passes:
+    - vert: phong-vs:vert
+      frag: phong-fs:frag
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendSrcAlpha: src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      properties: *props
+}%
+
+CCProgram shared-ubos %{
+  uniform Constants {
+    vec4 albedoScale;
+    vec4 albedo;
+    vec4 specular;
+    float Gloss;
+    float Diffuse;
+    float Saturation;
+    float Value;
+    float ColorR;
+    float ColorG;
+    float ColorB;
+  };
+}%
+
+CCProgram phong-vs %{
+  precision mediump float;
+  #include <cc-global>
+  #include <cc-local-batch>
+  #include <input-standard>
+  #include <shared-ubos>
+
+  #if USE_VERTEX_COLOR
+    in vec4 a_color;
+    out vec4 v_color;
+  #endif
+  out vec3 v_normal;
+  out vec3 worldPosition;
+
+
+  highp vec4 vert () {
+
+    StandardVertInput In;
+    CCVertInput(In);
+
+    mat4 matWorld, matWorldIT;
+    CCGetWorldMatrixFull(matWorld, matWorldIT);
+
+    vec4 WorldPos = matWorld * In.position;
+    worldPosition = vec3(WorldPos.x,WorldPos.y,WorldPos.z);
+    highp vec4 pos = cc_matProj * (cc_matView * matWorld) * In.position;
+    vec3 normal = normalize((matWorldIT * vec4(In.normal, 0.0)).xyz);
+    v_normal = vec3(-normal.x,-normal.y,-normal.z);
+    #if USE_VERTEX_COLOR
+      v_color = a_color;
+    #endif
+
+    return pos;
+  }
+}%
+
+
+
+CCProgram phong-fs %{
+  precision mediump float;
+  #include <cc-global>
+  #include <output>
+  #include <shared-ubos>
+  #include <shading-standard>
+  #include <gamma>
+  #include <common>
+  #include <lighting>
+
+  #if USE_VERTEX_COLOR
+    in vec4 v_color;
+  #endif
+    in vec3 v_normal;
+    in vec3 worldPosition;
+
+    vec3 RGBConvertToHSV(vec3 rgb) {
+    float R = rgb.x, G = rgb.y, B = rgb.z;
+    vec3 hsv;
+    float max1 = max(R,max(G,B));
+    float min1 = min(R,min(G,B));
+    if (R == max1) {
+      hsv.x = (G-B)/(max1-min1);
+    }
+    if (G == max1) {
+      hsv.x = 2.0 + (B-R)/(max1-min1);
+    }
+    if (B == max1) {
+      hsv.x = 4.0 + (R-G)/(max1-min1);
+    }
+    hsv.x = hsv.x * 60.0;   
+    if (hsv.x < 0.0) hsv.x = hsv.x + 360.0;
+    hsv.z = max1;
+    hsv.y = (max1 - min1) / max1;
+    return hsv;
+  }
+
+  vec3 HSVConvertToRGB(vec3 hsv) {
+    float R,G,B;
+    if( hsv.y == 0.0 ) {
+      R=G=B=hsv.z;
+    }
+    else {
+      hsv.x = hsv.x/60.0; 
+      int i = int(hsv.x);
+      float f = hsv.x - float(i);
+      float a = hsv.z * ( 1.0 - hsv.y );
+      float b = hsv.z * ( 1.0 - hsv.y * f );
+      float c = hsv.z * ( 1.0 - hsv.y * (1.0 - f ) );
+      if(i == 0) {
+        R = hsv.z; G = c; B = a;
+      }
+      else if(i == 1) {
+        R = b; G = hsv.z; B = a; 
+      }
+      else if(i == 2) {
+        R = a; G = hsv.z; B = c; 
+      }
+      else if(i == 3) {
+        R = a; G = b; B = hsv.z;
+      }
+      else if(i == 4) {
+        R = c; G = a; B = hsv.z;
+      }
+      else {
+        R = hsv.z; G = a; B = b; 
+      }
+    }
+    return vec3(R,G,B);
+  }
+
+
+
+  vec4 frag () {
+
+    vec4 base = vec4(ColorR,ColorG,ColorB,1.0);
+    vec4 mainLitColor = cc_mainLitColor;
+    vec3 lightDir = cc_mainLitDir.xyz;
+
+    float diffuseScale = max(dot(v_normal, lightDir), 0.0);
+
+    vec4 diffuseColor = vec4(base.xyz*diffuseScale*2.0,base.w);
+
+    vec3 viewDir = normalize(cc_cameraPos.xyz - worldPosition);
+
+    vec3 halfDir = normalize(lightDir+viewDir);
+
+    float specularScale = max(dot(v_normal,halfDir), 1.0);
+
+    vec3 N = normalize(v_normal);
+    vec3 V = normalize(cc_cameraPos.xyz - worldPosition);
+    vec3 lightdir = -cc_mainLitDir.xyz;
+    vec3 L = normalize(lightdir);
+    vec3 H = normalize(L+V);
+    float NV = max(abs(dot(N, V)), 0.001);
+    float NL = max(dot(N, L), 0.001);
+    float NH = max(dot(N, H), 0.0);
+
+    vec3 specular = mix(vec3(0.04), base.rgb, 0.01);
+    specular = BRDFApprox(specular, 1.0, NV);
+
+    vec3 diffuseContrib = diffuseColor.xyz / PI;
+    vec3 specularContrib = specular * CalcSpecular(1.0, NH, H, N);
+
+    vec3 oo = base.xyz + diffuseColor.xyz*base.xyz*mainLitColor.xyz; //*specularContrib;    // * (diffuseContrib + specularContrib);  //(1.0-specularScale)*mainLitColor * cc_mainLitColor.w;
+    vec4 o = vec4(oo,1);
+
+    vec3 colorHSV = RGBConvertToHSV(o.xyz); //转换为HSV
+    colorHSV.y *= Saturation; //调整饱和度
+    colorHSV.z *= Value;
+    o.xyz = HSVConvertToRGB(colorHSV.xyz); //将调整后的HSV，转换为RGB颜色
+
+    return CCFragOutput(o);
+
+  }
+}%
+
+

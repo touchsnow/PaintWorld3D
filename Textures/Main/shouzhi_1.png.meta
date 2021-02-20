@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "1b17c436-1b4e-4166-aabe-0f3cf3ed0d48",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "1b17c436-1b4e-4166-aabe-0f3cf3ed0d48@6c48a",
+      "displayName": "shouzhi_1",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1b17c436-1b4e-4166-aabe-0f3cf3ed0d48"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "1b17c436-1b4e-4166-aabe-0f3cf3ed0d48@f9941",
+      "displayName": "shouzhi_1",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 12,
+        "offsetY": -12.5,
+        "trimX": 32,
+        "trimY": 25,
+        "width": 240,
+        "height": 275,
+        "rawWidth": 280,
+        "rawHeight": 300,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1b17c436-1b4e-4166-aabe-0f3cf3ed0d48@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "1b17c436-1b4e-4166-aabe-0f3cf3ed0d48@f9941"
+  }
+}

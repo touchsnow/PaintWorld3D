@@ -1,0 +1,48 @@
+{
+
+    "ThemeList":["QiMiaoQiDian","ZhangZhongJinLing","MeiShiWangGuo","HuanXiangShiJie","LvYeXianZhong"],
+    "QiMiaoQiDian":{
+        "theme":"奇妙起点",
+        "label":"开始奇妙的涂色之旅",
+        "bg":"QiMiaoQiDian",
+        "levelList":["XinShouMen","XiaoJi","TuTuLvGuang","ShaFaNvHai"]
+    },
+    "ZhangZhongJinLing":{
+        "theme":"掌中精灵",
+        "label":"嗨~能和我们一起玩吗？",
+        "bg":"ZhangZhongJinLing",
+        "levelList":["ShaTanNvHai","JiCheNvHai"]
+    },
+    "MeiShiWangGuo":{
+        "theme":"美食王国",
+        "label":"令人沉醉的美食诱惑",
+        "bg":"MeiShiWangGuo",
+        "levelList":["DanGao","LaMian","BingQiLing"]
+    },
+    "HuanXiangShiJie":{
+        "theme":"幻想世界",
+        "label":"梦境之中，奇妙无穷",
+        "bg":"HuanXiangShiJie",
+        "levelList":["MianYang","RenMaNvHai","YueLiang","HuaZhuangHe","ReQiQiu","XueZhongQinDian"]
+    },
+    "LvYeXianZhong":{
+        "theme":"绿野仙踪",
+        "label":"四个朋友的美好时光",
+        "bg":"LvYeXianZhong",
+        "levelList":["NongChang","ChuangSongMen","QiMiaoGuoDu","DaoCaoRen","TiePiRen","ShiZi"]
+    },
+    "JingQingQiDai":{
+        "theme":"敬请期待",
+        "label":"",
+        "bg":"JingQingQiDai",
+        "levelList":[]
+    },
+
+    "AchieveList":{
+        "QiMiaoQiDian":["XiaoJi","TuTuLvGuang","ShaFaNvHai"],
+        "ZhangZhongJinLing":["ShaTanNvHai","JiCheNvHai"],
+        "MeiShiWangGuo":["DanGao","LaMian","BingQiLing"],
+        "HuanXiangShiJie":["MianYang","RenMaNvHai","YueLiang","HuaZhuangHe"],
+        "LvYeXianZhong":["NongChang","ChuangSongMen","QiMiaoGuoDu"]
+    }
+}

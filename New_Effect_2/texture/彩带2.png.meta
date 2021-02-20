@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "832006ea-e63e-4010-aec1-38c80fce35f3",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "832006ea-e63e-4010-aec1-38c80fce35f3@6c48a",
+      "displayName": "彩带2",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "832006ea-e63e-4010-aec1-38c80fce35f3"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "832006ea-e63e-4010-aec1-38c80fce35f3@6c48a"
+  }
+}

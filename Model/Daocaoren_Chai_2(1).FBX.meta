@@ -1,0 +1,4516 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5",
+  "files": [],
+  "subMetas": {
+    "11408": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@11408",
+      "displayName": "",
+      "id": "11408",
+      "name": "Daocaoren379.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 59
+      }
+    },
+    "14478": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@14478",
+      "displayName": "",
+      "id": "14478",
+      "name": "Daocaoren443.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 38
+      }
+    },
+    "21369": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@21369",
+      "displayName": "",
+      "id": "21369",
+      "name": "Daocaoren506.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 20
+      }
+    },
+    "24631": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@24631",
+      "displayName": "",
+      "id": "24631",
+      "name": "Daocaoren518.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 23
+      }
+    },
+    "29684": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@29684",
+      "displayName": "",
+      "id": "29684",
+      "name": "World-Daocaoren-Color-153-51-52.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 26
+      }
+    },
+    "30696": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@30696",
+      "displayName": "",
+      "id": "30696",
+      "name": "duoluoxi_1-Color-102-51-102.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 31
+      }
+    },
+    "30970": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@30970",
+      "displayName": "",
+      "id": "30970",
+      "name": "Daocaoren458.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 138
+      }
+    },
+    "32433": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@32433",
+      "displayName": "",
+      "id": "32433",
+      "name": "Daocaoren390.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 81
+      }
+    },
+    "37537": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@37537",
+      "displayName": "",
+      "id": "37537",
+      "name": "Daocaoren465.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 142
+      }
+    },
+    "44823": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@44823",
+      "displayName": "",
+      "id": "44823",
+      "name": "SM_Prop_Battle_Cross_01-Color-102-76-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 68
+      }
+    },
+    "47092": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@47092",
+      "displayName": "",
+      "id": "47092",
+      "name": "Daocaoren475.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 151
+      }
+    },
+    "54253": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@54253",
+      "displayName": "",
+      "id": "54253",
+      "name": "Daocaoren488.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 168
+      }
+    },
+    "62482": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@62482",
+      "displayName": "",
+      "id": "62482",
+      "name": "Daocaoren424.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 18
+      }
+    },
+    "70684": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@70684",
+      "displayName": "",
+      "id": "70684",
+      "name": "Daocaoren463.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 124
+      }
+    },
+    "81118": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@81118",
+      "displayName": "",
+      "id": "81118",
+      "name": "Daocaoren535.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 30
+      }
+    },
+    "83127": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@83127",
+      "displayName": "",
+      "id": "83127",
+      "name": "Daocaoren421.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 106
+      }
+    },
+    "87570": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@87570",
+      "displayName": "",
+      "id": "87570",
+      "name": "Daocaoren477.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 153
+      }
+    },
+    "95801": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@95801",
+      "displayName": "",
+      "id": "95801",
+      "name": "Daocaoren179.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 68
+      }
+    },
+    "98765": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@98765",
+      "displayName": "",
+      "id": "98765",
+      "name": "GameObject-Color-102-76-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 60
+      }
+    },
+    "c60f4": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@c60f4",
+      "displayName": "",
+      "id": "c60f4",
+      "name": "Daocaoren02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "6e8ad": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@6e8ad",
+      "displayName": "",
+      "id": "6e8ad",
+      "name": "Daocaoren04.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "7b775": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@7b775",
+      "displayName": "",
+      "id": "7b775",
+      "name": "Daocaoren03.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "517f2": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@517f2",
+      "displayName": "",
+      "id": "517f2",
+      "name": "Daocaoren537.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "5259d": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@5259d",
+      "displayName": "",
+      "id": "5259d",
+      "name": "Daocaoren529.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "ab14c": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@ab14c",
+      "displayName": "",
+      "id": "ab14c",
+      "name": "Daocaoren530.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "66c68": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@66c68",
+      "displayName": "",
+      "id": "66c68",
+      "name": "Daocaoren531.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "895b3": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@895b3",
+      "displayName": "",
+      "id": "895b3",
+      "name": "Daocaoren416.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "0d255": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@0d255",
+      "displayName": "",
+      "id": "0d255",
+      "name": "Daocaoren536.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "acc9b": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@acc9b",
+      "displayName": "",
+      "id": "acc9b",
+      "name": "Daocaoren545.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "535b3": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@535b3",
+      "displayName": "",
+      "id": "535b3",
+      "name": "Daocaoren546.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "9c0b4": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@9c0b4",
+      "displayName": "",
+      "id": "9c0b4",
+      "name": "Daocaoren454.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "16e0e": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@16e0e",
+      "displayName": "",
+      "id": "16e0e",
+      "name": "Daocaoren455.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "a22b4": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@a22b4",
+      "displayName": "",
+      "id": "a22b4",
+      "name": "Daocaoren482.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      }
+    },
+    "2f214": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@2f214",
+      "displayName": "",
+      "id": "2f214",
+      "name": "Daocaoren483.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      }
+    },
+    "acd03": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@acd03",
+      "displayName": "",
+      "id": "acd03",
+      "name": "Daocaoren544.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      }
+    },
+    "17cd8": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@17cd8",
+      "displayName": "",
+      "id": "17cd8",
+      "name": "Daocaoren451.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      }
+    },
+    "f8f8c": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@f8f8c",
+      "displayName": "",
+      "id": "f8f8c",
+      "name": "Daocaoren503.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 17
+      }
+    },
+    "987d3": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@987d3",
+      "displayName": "",
+      "id": "987d3",
+      "name": "Daocaoren504.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 19
+      }
+    },
+    "b1a06": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@b1a06",
+      "displayName": "",
+      "id": "b1a06",
+      "name": "Daocaoren519.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 21
+      }
+    },
+    "6723e": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@6723e",
+      "displayName": "",
+      "id": "6723e",
+      "name": "Daocaoren522.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 22
+      }
+    },
+    "5e738": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@5e738",
+      "displayName": "",
+      "id": "5e738",
+      "name": "Daocaoren520.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 24
+      }
+    },
+    "4efb8": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@4efb8",
+      "displayName": "",
+      "id": "4efb8",
+      "name": "Daocaoren521.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 25
+      }
+    },
+    "becfc": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@becfc",
+      "displayName": "",
+      "id": "becfc",
+      "name": "Daocaoren524.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 26
+      }
+    },
+    "8071c": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@8071c",
+      "displayName": "",
+      "id": "8071c",
+      "name": "Daocaoren507.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 27
+      }
+    },
+    "23f16": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@23f16",
+      "displayName": "",
+      "id": "23f16",
+      "name": "Daocaoren505.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 28
+      }
+    },
+    "1be9a": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1be9a",
+      "displayName": "",
+      "id": "1be9a",
+      "name": "Daocaoren508.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 29
+      }
+    },
+    "17d16": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@17d16",
+      "displayName": "",
+      "id": "17d16",
+      "name": "Daocaoren517.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 31
+      }
+    },
+    "5e725": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@5e725",
+      "displayName": "",
+      "id": "5e725",
+      "name": "Daocaoren515.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 32
+      }
+    },
+    "565b6": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@565b6",
+      "displayName": "",
+      "id": "565b6",
+      "name": "Daocaoren516.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 33
+      }
+    },
+    "2ee86": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@2ee86",
+      "displayName": "",
+      "id": "2ee86",
+      "name": "Daocaoren525.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 34
+      }
+    },
+    "3eca4": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@3eca4",
+      "displayName": "",
+      "id": "3eca4",
+      "name": "Daocaoren440.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 35
+      }
+    },
+    "56d50": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@56d50",
+      "displayName": "",
+      "id": "56d50",
+      "name": "Daocaoren441.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 36
+      }
+    },
+    "d770d": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@d770d",
+      "displayName": "",
+      "id": "d770d",
+      "name": "Daocaoren442.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 37
+      }
+    },
+    "d240e": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@d240e",
+      "displayName": "",
+      "id": "d240e",
+      "name": "Daocaoren445.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 39
+      }
+    },
+    "1758d": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1758d",
+      "displayName": "",
+      "id": "1758d",
+      "name": "Daocaoren534.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 40
+      }
+    },
+    "6f99e": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@6f99e",
+      "displayName": "",
+      "id": "6f99e",
+      "name": "Daocaoren532.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 41
+      }
+    },
+    "277d5": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@277d5",
+      "displayName": "",
+      "id": "277d5",
+      "name": "Daocaoren533.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 42
+      }
+    },
+    "1114a": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1114a",
+      "displayName": "",
+      "id": "1114a",
+      "name": "Daocaoren539.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 43
+      }
+    },
+    "87a75": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@87a75",
+      "displayName": "",
+      "id": "87a75",
+      "name": "Daocaoren540.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 44
+      }
+    },
+    "ab426": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@ab426",
+      "displayName": "",
+      "id": "ab426",
+      "name": "Daocaoren541.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 45
+      }
+    },
+    "4d11b": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@4d11b",
+      "displayName": "",
+      "id": "4d11b",
+      "name": "Daocaoren538.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 46
+      }
+    },
+    "a9a89": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@a9a89",
+      "displayName": "",
+      "id": "a9a89",
+      "name": "Daocaoren542.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 47
+      }
+    },
+    "cc1ed": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@cc1ed",
+      "displayName": "",
+      "id": "cc1ed",
+      "name": "Daocaoren543.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 48
+      }
+    },
+    "bfad3": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@bfad3",
+      "displayName": "",
+      "id": "bfad3",
+      "name": "Daocaoren526.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 49
+      }
+    },
+    "c79cd": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@c79cd",
+      "displayName": "",
+      "id": "c79cd",
+      "name": "Daocaoren528.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 50
+      }
+    },
+    "1fe6b": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1fe6b",
+      "displayName": "",
+      "id": "1fe6b",
+      "name": "Daocaoren336.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 51
+      }
+    },
+    "4f9f2": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@4f9f2",
+      "displayName": "",
+      "id": "4f9f2",
+      "name": "Daocaoren341.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 52
+      }
+    },
+    "e35c0": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@e35c0",
+      "displayName": "",
+      "id": "e35c0",
+      "name": "Daocaoren348.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 53
+      }
+    },
+    "0bb11": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@0bb11",
+      "displayName": "",
+      "id": "0bb11",
+      "name": "Daocaoren374.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 54
+      }
+    },
+    "118e8": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@118e8",
+      "displayName": "",
+      "id": "118e8",
+      "name": "Daocaoren375.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 55
+      }
+    },
+    "93ea6": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@93ea6",
+      "displayName": "",
+      "id": "93ea6",
+      "name": "Daocaoren376.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 56
+      }
+    },
+    "5e9d5": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@5e9d5",
+      "displayName": "",
+      "id": "5e9d5",
+      "name": "Daocaoren377.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 57
+      }
+    },
+    "f0faf": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@f0faf",
+      "displayName": "",
+      "id": "f0faf",
+      "name": "Daocaoren378.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 58
+      }
+    },
+    "b9953": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@b9953",
+      "displayName": "",
+      "id": "b9953",
+      "name": "Daocaoren380.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 60
+      }
+    },
+    "4798e": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@4798e",
+      "displayName": "",
+      "id": "4798e",
+      "name": "Daocaoren381.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 61
+      }
+    },
+    "6f978": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@6f978",
+      "displayName": "",
+      "id": "6f978",
+      "name": "Daocaoren523.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 62
+      }
+    },
+    "ede8d": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@ede8d",
+      "displayName": "",
+      "id": "ede8d",
+      "name": "Daocaoren34.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 63
+      }
+    },
+    "55cd5": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@55cd5",
+      "displayName": "",
+      "id": "55cd5",
+      "name": "Daocaoren177.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 64
+      }
+    },
+    "422cd": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@422cd",
+      "displayName": "",
+      "id": "422cd",
+      "name": "Daocaoren66.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 65
+      }
+    },
+    "d0fa5": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@d0fa5",
+      "displayName": "",
+      "id": "d0fa5",
+      "name": "Daocaoren178.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 66
+      }
+    },
+    "9b8a1": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@9b8a1",
+      "displayName": "",
+      "id": "9b8a1",
+      "name": "Daocaoren203.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 67
+      }
+    },
+    "206a8": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@206a8",
+      "displayName": "",
+      "id": "206a8",
+      "name": "Daocaoren233.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 69
+      }
+    },
+    "165d9": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@165d9",
+      "displayName": "",
+      "id": "165d9",
+      "name": "Daocaoren357.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 70
+      }
+    },
+    "d5e4b": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@d5e4b",
+      "displayName": "",
+      "id": "d5e4b",
+      "name": "Daocaoren360.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 71
+      }
+    },
+    "18a10": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@18a10",
+      "displayName": "",
+      "id": "18a10",
+      "name": "Daocaoren362.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 72
+      }
+    },
+    "467db": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@467db",
+      "displayName": "",
+      "id": "467db",
+      "name": "Daocaoren363.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 73
+      }
+    },
+    "97bce": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@97bce",
+      "displayName": "",
+      "id": "97bce",
+      "name": "Daocaoren386.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 74
+      }
+    },
+    "b4537": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@b4537",
+      "displayName": "",
+      "id": "b4537",
+      "name": "Daocaoren387.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 75
+      }
+    },
+    "eca4f": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@eca4f",
+      "displayName": "",
+      "id": "eca4f",
+      "name": "Daocaoren398.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 76
+      }
+    },
+    "f19a6": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@f19a6",
+      "displayName": "",
+      "id": "f19a6",
+      "name": "Daocaoren399.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 77
+      }
+    },
+    "769e9": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@769e9",
+      "displayName": "",
+      "id": "769e9",
+      "name": "Daocaoren388.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 78
+      }
+    },
+    "e28cb": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@e28cb",
+      "displayName": "",
+      "id": "e28cb",
+      "name": "Daocaoren389.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 79
+      }
+    },
+    "a3d02": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@a3d02",
+      "displayName": "",
+      "id": "a3d02",
+      "name": "Daocaoren400.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 80
+      }
+    },
+    "d6b22": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@d6b22",
+      "displayName": "",
+      "id": "d6b22",
+      "name": "Daocaoren391.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 82
+      }
+    },
+    "8416b": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@8416b",
+      "displayName": "",
+      "id": "8416b",
+      "name": "Daocaoren392.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 83
+      }
+    },
+    "bfce8": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@bfce8",
+      "displayName": "",
+      "id": "bfce8",
+      "name": "Daocaoren401.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 84
+      }
+    },
+    "21db2": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@21db2",
+      "displayName": "",
+      "id": "21db2",
+      "name": "Daocaoren402.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 85
+      }
+    },
+    "1f620": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1f620",
+      "displayName": "",
+      "id": "1f620",
+      "name": "Daocaoren403.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 86
+      }
+    },
+    "d4637": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@d4637",
+      "displayName": "",
+      "id": "d4637",
+      "name": "Daocaoren404.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 87
+      }
+    },
+    "60c46": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@60c46",
+      "displayName": "",
+      "id": "60c46",
+      "name": "Daocaoren405.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 88
+      }
+    },
+    "e3401": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@e3401",
+      "displayName": "",
+      "id": "e3401",
+      "name": "Daocaoren393.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 89
+      }
+    },
+    "2f4c1": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@2f4c1",
+      "displayName": "",
+      "id": "2f4c1",
+      "name": "Daocaoren410.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 90
+      }
+    },
+    "9271f": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@9271f",
+      "displayName": "",
+      "id": "9271f",
+      "name": "Daocaoren394.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 91
+      }
+    },
+    "eb394": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@eb394",
+      "displayName": "",
+      "id": "eb394",
+      "name": "Daocaoren406.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 92
+      }
+    },
+    "2377b": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@2377b",
+      "displayName": "",
+      "id": "2377b",
+      "name": "Daocaoren407.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 93
+      }
+    },
+    "98c0e": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@98c0e",
+      "displayName": "",
+      "id": "98c0e",
+      "name": "Daocaoren408.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 94
+      }
+    },
+    "1bd02": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1bd02",
+      "displayName": "",
+      "id": "1bd02",
+      "name": "Daocaoren409.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 95
+      }
+    },
+    "a393f": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@a393f",
+      "displayName": "",
+      "id": "a393f",
+      "name": "Daocaoren395.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 96
+      }
+    },
+    "fafa5": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@fafa5",
+      "displayName": "",
+      "id": "fafa5",
+      "name": "Daocaoren412.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 97
+      }
+    },
+    "cd0d9": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@cd0d9",
+      "displayName": "",
+      "id": "cd0d9",
+      "name": "Daocaoren396.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 98
+      }
+    },
+    "dd5f7": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@dd5f7",
+      "displayName": "",
+      "id": "dd5f7",
+      "name": "Daocaoren413.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 99
+      }
+    },
+    "659c6": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@659c6",
+      "displayName": "",
+      "id": "659c6",
+      "name": "Daocaoren397.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 100
+      }
+    },
+    "5e684": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@5e684",
+      "displayName": "",
+      "id": "5e684",
+      "name": "Daocaoren414.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 101
+      }
+    },
+    "ff5e4": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@ff5e4",
+      "displayName": "",
+      "id": "ff5e4",
+      "name": "Daocaoren411.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 102
+      }
+    },
+    "de1cb": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@de1cb",
+      "displayName": "",
+      "id": "de1cb",
+      "name": "Daocaoren415.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 103
+      }
+    },
+    "ae402": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@ae402",
+      "displayName": "",
+      "id": "ae402",
+      "name": "Daocaoren417.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 104
+      }
+    },
+    "0febf": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@0febf",
+      "displayName": "",
+      "id": "0febf",
+      "name": "Daocaoren419.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 105
+      }
+    },
+    "1408d": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1408d",
+      "displayName": "",
+      "id": "1408d",
+      "name": "Daocaoren425.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 107
+      }
+    },
+    "b339d": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@b339d",
+      "displayName": "",
+      "id": "b339d",
+      "name": "Daocaoren426.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 108
+      }
+    },
+    "c8565": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@c8565",
+      "displayName": "",
+      "id": "c8565",
+      "name": "Daocaoren427.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 109
+      }
+    },
+    "042b4": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@042b4",
+      "displayName": "",
+      "id": "042b4",
+      "name": "Daocaoren428.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 110
+      }
+    },
+    "3ec5f": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@3ec5f",
+      "displayName": "",
+      "id": "3ec5f",
+      "name": "Daocaoren429.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 111
+      }
+    },
+    "af7f9": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@af7f9",
+      "displayName": "",
+      "id": "af7f9",
+      "name": "Daocaoren430.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 112
+      }
+    },
+    "0b850": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@0b850",
+      "displayName": "",
+      "id": "0b850",
+      "name": "Daocaoren431.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 113
+      }
+    },
+    "b9c92": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@b9c92",
+      "displayName": "",
+      "id": "b9c92",
+      "name": "Daocaoren432.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 114
+      }
+    },
+    "4a083": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@4a083",
+      "displayName": "",
+      "id": "4a083",
+      "name": "Daocaoren433.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 115
+      }
+    },
+    "8525f": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@8525f",
+      "displayName": "",
+      "id": "8525f",
+      "name": "Daocaoren434.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 116
+      }
+    },
+    "65bc1": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@65bc1",
+      "displayName": "",
+      "id": "65bc1",
+      "name": "Daocaoren435.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 117
+      }
+    },
+    "9608a": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@9608a",
+      "displayName": "",
+      "id": "9608a",
+      "name": "Daocaoren444.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 118
+      }
+    },
+    "8886e": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@8886e",
+      "displayName": "",
+      "id": "8886e",
+      "name": "Daocaoren436.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 119
+      }
+    },
+    "f119b": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@f119b",
+      "displayName": "",
+      "id": "f119b",
+      "name": "Daocaoren437.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 120
+      }
+    },
+    "a4d2a": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@a4d2a",
+      "displayName": "",
+      "id": "a4d2a",
+      "name": "Daocaoren438.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 121
+      }
+    },
+    "af9b2": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@af9b2",
+      "displayName": "",
+      "id": "af9b2",
+      "name": "Daocaoren439.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 122
+      }
+    },
+    "865ef": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@865ef",
+      "displayName": "",
+      "id": "865ef",
+      "name": "Daocaoren457.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 123
+      }
+    },
+    "d694c": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@d694c",
+      "displayName": "",
+      "id": "d694c",
+      "name": "Daocaoren471.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 125
+      }
+    },
+    "438a1": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@438a1",
+      "displayName": "",
+      "id": "438a1",
+      "name": "Daocaoren446.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 126
+      }
+    },
+    "9c50a": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@9c50a",
+      "displayName": "",
+      "id": "9c50a",
+      "name": "Daocaoren447.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 127
+      }
+    },
+    "9b431": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@9b431",
+      "displayName": "",
+      "id": "9b431",
+      "name": "Daocaoren448.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 128
+      }
+    },
+    "5b5e4": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@5b5e4",
+      "displayName": "",
+      "id": "5b5e4",
+      "name": "Daocaoren449.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 129
+      }
+    },
+    "d0401": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@d0401",
+      "displayName": "",
+      "id": "d0401",
+      "name": "Daocaoren452.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 130
+      }
+    },
+    "05967": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@05967",
+      "displayName": "",
+      "id": "05967",
+      "name": "Daocaoren480.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 131
+      }
+    },
+    "fa10c": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@fa10c",
+      "displayName": "",
+      "id": "fa10c",
+      "name": "Daocaoren450.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 132
+      }
+    },
+    "83cae": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@83cae",
+      "displayName": "",
+      "id": "83cae",
+      "name": "Daocaoren453.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 133
+      }
+    },
+    "1c04f": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1c04f",
+      "displayName": "",
+      "id": "1c04f",
+      "name": "Daocaoren481.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 134
+      }
+    },
+    "b1235": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@b1235",
+      "displayName": "",
+      "id": "b1235",
+      "name": "Daocaoren456.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 135
+      }
+    },
+    "f33d4": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@f33d4",
+      "displayName": "",
+      "id": "f33d4",
+      "name": "Daocaoren464.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 136
+      }
+    },
+    "33ed2": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@33ed2",
+      "displayName": "",
+      "id": "33ed2",
+      "name": "Daocaoren472.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 137
+      }
+    },
+    "4189b": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@4189b",
+      "displayName": "",
+      "id": "4189b",
+      "name": "Daocaoren466.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 139
+      }
+    },
+    "44b72": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@44b72",
+      "displayName": "",
+      "id": "44b72",
+      "name": "Daocaoren476.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 140
+      }
+    },
+    "1aadb": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1aadb",
+      "displayName": "",
+      "id": "1aadb",
+      "name": "Daocaoren459.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 141
+      }
+    },
+    "7c2d8": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@7c2d8",
+      "displayName": "",
+      "id": "7c2d8",
+      "name": "Daocaoren460.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 143
+      }
+    },
+    "d4e60": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@d4e60",
+      "displayName": "",
+      "id": "d4e60",
+      "name": "Daocaoren468.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 144
+      }
+    },
+    "1a3fe": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1a3fe",
+      "displayName": "",
+      "id": "1a3fe",
+      "name": "Daocaoren470.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 145
+      }
+    },
+    "593ec": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@593ec",
+      "displayName": "",
+      "id": "593ec",
+      "name": "Daocaoren461.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 146
+      }
+    },
+    "e3d6d": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@e3d6d",
+      "displayName": "",
+      "id": "e3d6d",
+      "name": "Daocaoren467.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 147
+      }
+    },
+    "001b2": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@001b2",
+      "displayName": "",
+      "id": "001b2",
+      "name": "Daocaoren473.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 148
+      }
+    },
+    "ead44": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@ead44",
+      "displayName": "",
+      "id": "ead44",
+      "name": "Daocaoren462.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 149
+      }
+    },
+    "0856c": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@0856c",
+      "displayName": "",
+      "id": "0856c",
+      "name": "Daocaoren469.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 150
+      }
+    },
+    "a3fd1": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@a3fd1",
+      "displayName": "",
+      "id": "a3fd1",
+      "name": "Daocaoren474.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 152
+      }
+    },
+    "c1784": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@c1784",
+      "displayName": "",
+      "id": "c1784",
+      "name": "Daocaoren478.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 154
+      }
+    },
+    "766e1": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@766e1",
+      "displayName": "",
+      "id": "766e1",
+      "name": "Daocaoren479.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 155
+      }
+    },
+    "3671d": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@3671d",
+      "displayName": "",
+      "id": "3671d",
+      "name": "Daocaoren484.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 156
+      }
+    },
+    "4fa77": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@4fa77",
+      "displayName": "",
+      "id": "4fa77",
+      "name": "Daocaoren493.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 157
+      }
+    },
+    "a8ed7": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@a8ed7",
+      "displayName": "",
+      "id": "a8ed7",
+      "name": "Daocaoren494.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 158
+      }
+    },
+    "f5c2f": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@f5c2f",
+      "displayName": "",
+      "id": "f5c2f",
+      "name": "Daocaoren495.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 159
+      }
+    },
+    "7d54e": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@7d54e",
+      "displayName": "",
+      "id": "7d54e",
+      "name": "Daocaoren496.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 160
+      }
+    },
+    "1d828": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1d828",
+      "displayName": "",
+      "id": "1d828",
+      "name": "Daocaoren497.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 161
+      }
+    },
+    "898b8": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@898b8",
+      "displayName": "",
+      "id": "898b8",
+      "name": "Daocaoren485.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 162
+      }
+    },
+    "ddf27": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@ddf27",
+      "displayName": "",
+      "id": "ddf27",
+      "name": "Daocaoren498.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 163
+      }
+    },
+    "9b1df": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@9b1df",
+      "displayName": "",
+      "id": "9b1df",
+      "name": "Daocaoren499.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 164
+      }
+    },
+    "a2606": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@a2606",
+      "displayName": "",
+      "id": "a2606",
+      "name": "Daocaoren500.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 165
+      }
+    },
+    "97b5c": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@97b5c",
+      "displayName": "",
+      "id": "97b5c",
+      "name": "Daocaoren486.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 166
+      }
+    },
+    "7c2fb": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@7c2fb",
+      "displayName": "",
+      "id": "7c2fb",
+      "name": "Daocaoren487.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 167
+      }
+    },
+    "89c80": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@89c80",
+      "displayName": "",
+      "id": "89c80",
+      "name": "Daocaoren501.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 169
+      }
+    },
+    "4af3a": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@4af3a",
+      "displayName": "",
+      "id": "4af3a",
+      "name": "Daocaoren502.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 170
+      }
+    },
+    "7f349": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@7f349",
+      "displayName": "",
+      "id": "7f349",
+      "name": "Daocaoren489.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 171
+      }
+    },
+    "1aa09": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1aa09",
+      "displayName": "",
+      "id": "1aa09",
+      "name": "Daocaoren490.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 172
+      }
+    },
+    "7bbd9": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@7bbd9",
+      "displayName": "",
+      "id": "7bbd9",
+      "name": "Daocaoren491.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 173
+      }
+    },
+    "1fb83": {
+      "importer": "gltf-mesh",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1fb83",
+      "displayName": "",
+      "id": "1fb83",
+      "name": "Daocaoren492.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 174
+      }
+    },
+    "afa7c": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@afa7c",
+      "displayName": "",
+      "id": "afa7c",
+      "name": "daoraoren_daocaoren-Color-229-229-204.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "eed28": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@eed28",
+      "displayName": "",
+      "id": "eed28",
+      "name": "daoraoren_daocaoren-Color-255-102-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "81db1": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@81db1",
+      "displayName": "",
+      "id": "81db1",
+      "name": "gou_woshi-Color-25-25-25.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "f8e67": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@f8e67",
+      "displayName": "",
+      "id": "f8e67",
+      "name": "duoluoxi_1-Color-204-153-102.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "cf232": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@cf232",
+      "displayName": "",
+      "id": "cf232",
+      "name": "duoluoxi_1-Color-153-76-127.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "660a4": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@660a4",
+      "displayName": "",
+      "id": "660a4",
+      "name": "SM_Prop_Battle_Cross_01-Color-127-102-102.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "86e96": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@86e96",
+      "displayName": "",
+      "id": "86e96",
+      "name": "SM_Item_Butterfly_01-Color-51-51-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "8d024": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@8d024",
+      "displayName": "",
+      "id": "8d024",
+      "name": "World-Daocaoren-Color-178-127-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "eea47": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@eea47",
+      "displayName": "",
+      "id": "eea47",
+      "name": "SM_Prop_Basket_02-Color-127-102-102.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "b9952": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@b9952",
+      "displayName": "",
+      "id": "b9952",
+      "name": "wuya_02-Color-178-76-0.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "bbaf2": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@bbaf2",
+      "displayName": "",
+      "id": "bbaf2",
+      "name": "wuya_01-Color-178-76-0.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "2d81c": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@2d81c",
+      "displayName": "",
+      "id": "2d81c",
+      "name": "World-Tiepiren-Color-86-160-172.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "d4bd7": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@d4bd7",
+      "displayName": "",
+      "id": "d4bd7",
+      "name": "World-Daocaoren-Color-76-51-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "9d6ac": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@9d6ac",
+      "displayName": "",
+      "id": "9d6ac",
+      "name": "SM_Env_Rock_Cliff_05 (16)-Color-102-102-102.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      }
+    },
+    "bd1df": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@bd1df",
+      "displayName": "",
+      "id": "bd1df",
+      "name": "World-Daocaoren-Color-127-127-77.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      }
+    },
+    "bef0e": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@bef0e",
+      "displayName": "",
+      "id": "bef0e",
+      "name": "SM_Plant_PalmBush_01-Color-76-51-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      }
+    },
+    "e7cbb": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@e7cbb",
+      "displayName": "",
+      "id": "e7cbb",
+      "name": "GameObject-Color-76-76-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      }
+    },
+    "ca8e5": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@ca8e5",
+      "displayName": "",
+      "id": "ca8e5",
+      "name": "GameObject-Color-76-102-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 17
+      }
+    },
+    "4b63f": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@4b63f",
+      "displayName": "",
+      "id": "4b63f",
+      "name": "SM_Plant_Mushrooms_01-Color-76-51-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 18
+      }
+    },
+    "db028": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@db028",
+      "displayName": "",
+      "id": "db028",
+      "name": "SM_Plant_Flowers_01 (1)-Color-178-76-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 19
+      }
+    },
+    "7d44d": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@7d44d",
+      "displayName": "",
+      "id": "7d44d",
+      "name": "World-Daocaoren-Color-178-153-127.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 20
+      }
+    },
+    "a43d4": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@a43d4",
+      "displayName": "",
+      "id": "a43d4",
+      "name": "World-Daocaoren-Color-127-127-127.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 21
+      }
+    },
+    "171ce": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@171ce",
+      "displayName": "",
+      "id": "171ce",
+      "name": "World-Daocaoren-Color-76-76-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 22
+      }
+    },
+    "c5964": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@c5964",
+      "displayName": "",
+      "id": "c5964",
+      "name": "SM_Env_Rock_Cliff_05 (75)-Color-51-76-102.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 23
+      }
+    },
+    "e77cc": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@e77cc",
+      "displayName": "",
+      "id": "e77cc",
+      "name": "World-Daocaoren-Color-153-51-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 24
+      }
+    },
+    "48ccb": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@48ccb",
+      "displayName": "",
+      "id": "48ccb",
+      "name": "World-Daocaoren-Color-204-204-204.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 25
+      }
+    },
+    "a2e02": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@a2e02",
+      "displayName": "",
+      "id": "a2e02",
+      "name": "World-Daocaoren-Color-153-51-54.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 27
+      }
+    },
+    "b3b31": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@b3b31",
+      "displayName": "",
+      "id": "b3b31",
+      "name": "World-Daocaoren-Color-127-127-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 28
+      }
+    },
+    "21da9": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@21da9",
+      "displayName": "",
+      "id": "21da9",
+      "name": "duoluoxi_1-Color-204-76-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 29
+      }
+    },
+    "351ce": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@351ce",
+      "displayName": "",
+      "id": "351ce",
+      "name": "duoluoxi_1-Color-255-204-178.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 30
+      }
+    },
+    "3c787": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@3c787",
+      "displayName": "",
+      "id": "3c787",
+      "name": "duoluoxi_1-Color-153-204-204.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 32
+      }
+    },
+    "3eb17": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@3eb17",
+      "displayName": "",
+      "id": "3eb17",
+      "name": "duoluoxi_1-Color-102-153-204.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 33
+      }
+    },
+    "b36f2": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@b36f2",
+      "displayName": "",
+      "id": "b36f2",
+      "name": "World-Daocaoren-Color-178-102-127.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 34
+      }
+    },
+    "344b8": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@344b8",
+      "displayName": "",
+      "id": "344b8",
+      "name": "duoluoxi_1-Color-51-102-153.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 35
+      }
+    },
+    "88cde": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@88cde",
+      "displayName": "",
+      "id": "88cde",
+      "name": "duoluoxi_1-Color-51-25-25.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 36
+      }
+    },
+    "5b1ef": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@5b1ef",
+      "displayName": "",
+      "id": "5b1ef",
+      "name": "duoluoxi_1-Color-204-229-255.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 37
+      }
+    },
+    "1db64": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1db64",
+      "displayName": "",
+      "id": "1db64",
+      "name": "duoluoxi_1-Color-102-76-127.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 38
+      }
+    },
+    "abad0": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@abad0",
+      "displayName": "",
+      "id": "abad0",
+      "name": "duoluoxi_1-Color-25-25-25.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 39
+      }
+    },
+    "303c8": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@303c8",
+      "displayName": "",
+      "id": "303c8",
+      "name": "duoluoxi_1-Color-127-76-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 40
+      }
+    },
+    "592d8": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@592d8",
+      "displayName": "",
+      "id": "592d8",
+      "name": "Baked  daoraoren_tiepiren-Color-51-51-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 41
+      }
+    },
+    "afbd7": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@afbd7",
+      "displayName": "",
+      "id": "afbd7",
+      "name": "World-Daocaoren-Color-127-102-102.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 42
+      }
+    },
+    "5f90a": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@5f90a",
+      "displayName": "",
+      "id": "5f90a",
+      "name": "World-Daocaoren-Color-204-178-153.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 43
+      }
+    },
+    "21c50": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@21c50",
+      "displayName": "",
+      "id": "21c50",
+      "name": "World-Daocaoren-Color-102-127-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 44
+      }
+    },
+    "1f6a6": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1f6a6",
+      "displayName": "",
+      "id": "1f6a6",
+      "name": "World-Daocaoren-Color-204-204-206.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 45
+      }
+    },
+    "8abf8": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@8abf8",
+      "displayName": "",
+      "id": "8abf8",
+      "name": "gou_woshi-Color-178-127-102.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 46
+      }
+    },
+    "1c2ef": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1c2ef",
+      "displayName": "",
+      "id": "1c2ef",
+      "name": "gou_woshi-Color-229-204-153.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 47
+      }
+    },
+    "4d374": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@4d374",
+      "displayName": "",
+      "id": "4d374",
+      "name": "gou_woshi-Color-76-76-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 48
+      }
+    },
+    "2c2da": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@2c2da",
+      "displayName": "",
+      "id": "2c2da",
+      "name": "gou_woshi-Color-255-255-255.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 49
+      }
+    },
+    "8e889": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@8e889",
+      "displayName": "",
+      "id": "8e889",
+      "name": "gou_woshi-Color-51-51-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 50
+      }
+    },
+    "98bc1": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@98bc1",
+      "displayName": "",
+      "id": "98bc1",
+      "name": "gou_woshi-Color-255-0-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 51
+      }
+    },
+    "dbed6": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@dbed6",
+      "displayName": "",
+      "id": "dbed6",
+      "name": "GameObject-Color-102-127-52.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 52
+      }
+    },
+    "b7641": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@b7641",
+      "displayName": "",
+      "id": "b7641",
+      "name": "GameObject-Color-102-127-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 53
+      }
+    },
+    "1533f": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1533f",
+      "displayName": "",
+      "id": "1533f",
+      "name": "SM_Plant_Flowers_01 (1)-Color-127-127-102.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 54
+      }
+    },
+    "1c544": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@1c544",
+      "displayName": "",
+      "id": "1c544",
+      "name": "SM_Item_Butterfly_01-Color-51-102-153.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 55
+      }
+    },
+    "7930f": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@7930f",
+      "displayName": "",
+      "id": "7930f",
+      "name": "wuya_02-Color-25-25-25.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 56
+      }
+    },
+    "81a5a": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@81a5a",
+      "displayName": "",
+      "id": "81a5a",
+      "name": "wuya_01-Color-76-76-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 57
+      }
+    },
+    "e2701": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@e2701",
+      "displayName": "",
+      "id": "e2701",
+      "name": "wuya_02-Color-76-76-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 58
+      }
+    },
+    "9e1eb": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@9e1eb",
+      "displayName": "",
+      "id": "9e1eb",
+      "name": "GameObject-Color-102-127-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 59
+      }
+    },
+    "d6036": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@d6036",
+      "displayName": "",
+      "id": "d6036",
+      "name": "GameObject-Color-153-127-102.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 61
+      }
+    },
+    "e8db1": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@e8db1",
+      "displayName": "",
+      "id": "e8db1",
+      "name": "GameObject-Color-76-102-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 62
+      }
+    },
+    "666fa": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@666fa",
+      "displayName": "",
+      "id": "666fa",
+      "name": "GameObject-Color-102-102-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 63
+      }
+    },
+    "e4082": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@e4082",
+      "displayName": "",
+      "id": "e4082",
+      "name": "GameObject-Color-76-51-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 64
+      }
+    },
+    "5d9e3": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@5d9e3",
+      "displayName": "",
+      "id": "5d9e3",
+      "name": "GameObject-Color-127-102-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 65
+      }
+    },
+    "23e58": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@23e58",
+      "displayName": "",
+      "id": "23e58",
+      "name": "SM_Plant_PalmBush_01-Color-127-127-102.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 66
+      }
+    },
+    "add79": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@add79",
+      "displayName": "",
+      "id": "add79",
+      "name": "SM_Item_Butterfly_01-Color-51-102-154.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 67
+      }
+    },
+    "4406f": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@4406f",
+      "displayName": "",
+      "id": "4406f",
+      "name": "daoraoren_daocaoren-Color-255-153-0.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 69
+      }
+    },
+    "6540a": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@6540a",
+      "displayName": "",
+      "id": "6540a",
+      "name": "daoraoren_daocaoren-Color-51-51-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 70
+      }
+    },
+    "3dce8": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@3dce8",
+      "displayName": "",
+      "id": "3dce8",
+      "name": "daoraoren_daocaoren-Color-153-178-229.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 71
+      }
+    },
+    "fd67c": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@fd67c",
+      "displayName": "",
+      "id": "fd67c",
+      "name": "daoraoren_daocaoren-Color-25-51-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 72
+      }
+    },
+    "ff329": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@ff329",
+      "displayName": "",
+      "id": "ff329",
+      "name": "daoraoren_daocaoren-Color-255-0-0.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 73
+      }
+    },
+    "76a91": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@76a91",
+      "displayName": "",
+      "id": "76a91",
+      "name": "daoraoren_daocaoren-Color-255-255-255.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 74
+      }
+    },
+    "7745f": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@7745f",
+      "displayName": "",
+      "id": "7745f",
+      "name": "daoraoren_daocaoren-Color-76-51-25.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 75
+      }
+    },
+    "df190": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@df190",
+      "displayName": "",
+      "id": "df190",
+      "name": "daoraoren_daocaoren-Color-255-204-51.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 76
+      }
+    },
+    "be4e5": {
+      "importer": "gltf-material",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@be4e5",
+      "displayName": "",
+      "id": "be4e5",
+      "name": "daoraoren_daocaoren-Color-25-76-76.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 77
+      }
+    },
+    "619bc": {
+      "importer": "gltf-scene",
+      "uuid": "194a8050-adc3-47f1-ac55-8aafd54dcad5@619bc",
+      "displayName": "",
+      "id": "619bc",
+      "name": "Daocaoren_Chai_2(1).prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "194a8050-adc3-47f1-ac55-8aafd54dcad5@619bc",
+    "assetFinder": {
+      "meshes": [
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@c60f4",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@6e8ad",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@7b775",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@517f2",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@5259d",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@ab14c",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@66c68",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@895b3",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@0d255",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@acc9b",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@535b3",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@9c0b4",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@16e0e",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@a22b4",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@2f214",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@acd03",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@17cd8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@f8f8c",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@62482",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@987d3",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@21369",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@b1a06",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@6723e",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@24631",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@5e738",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@4efb8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@becfc",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@8071c",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@23f16",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1be9a",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@81118",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@17d16",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@5e725",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@565b6",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@2ee86",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@3eca4",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@56d50",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@d770d",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@14478",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@d240e",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1758d",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@6f99e",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@277d5",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1114a",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@87a75",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@ab426",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@4d11b",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@a9a89",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@cc1ed",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@bfad3",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@c79cd",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1fe6b",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@4f9f2",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@e35c0",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@0bb11",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@118e8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@93ea6",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@5e9d5",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@f0faf",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@11408",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@b9953",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@4798e",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@6f978",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@ede8d",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@55cd5",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@422cd",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@d0fa5",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@9b8a1",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@95801",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@206a8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@165d9",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@d5e4b",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@18a10",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@467db",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@97bce",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@b4537",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@eca4f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@f19a6",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@769e9",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@e28cb",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@a3d02",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@32433",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@d6b22",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@8416b",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@bfce8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@21db2",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1f620",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@d4637",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@60c46",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@e3401",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@2f4c1",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@9271f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@eb394",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@2377b",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@98c0e",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1bd02",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@a393f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@fafa5",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@cd0d9",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@dd5f7",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@659c6",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@5e684",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@ff5e4",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@de1cb",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@ae402",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@0febf",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@83127",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1408d",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@b339d",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@c8565",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@042b4",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@3ec5f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@af7f9",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@0b850",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@b9c92",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@4a083",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@8525f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@65bc1",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@9608a",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@8886e",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@f119b",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@a4d2a",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@af9b2",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@865ef",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@70684",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@d694c",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@438a1",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@9c50a",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@9b431",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@5b5e4",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@d0401",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@05967",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@fa10c",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@83cae",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1c04f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@b1235",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@f33d4",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@33ed2",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@30970",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@4189b",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@44b72",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1aadb",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@37537",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@7c2d8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@d4e60",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1a3fe",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@593ec",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@e3d6d",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@001b2",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@ead44",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@0856c",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@47092",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@a3fd1",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@87570",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@c1784",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@766e1",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@3671d",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@4fa77",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@a8ed7",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@f5c2f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@7d54e",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1d828",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@898b8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@ddf27",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@9b1df",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@a2606",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@97b5c",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@7c2fb",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@54253",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@89c80",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@4af3a",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@7f349",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1aa09",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@7bbd9",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1fb83"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@afa7c",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@eed28",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@81db1",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@f8e67",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@cf232",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@660a4",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@86e96",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@8d024",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@eea47",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@b9952",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@bbaf2",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@2d81c",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@d4bd7",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@9d6ac",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@bd1df",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@bef0e",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@e7cbb",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@ca8e5",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@4b63f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@db028",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@7d44d",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@a43d4",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@171ce",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@c5964",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@e77cc",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@48ccb",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@29684",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@a2e02",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@b3b31",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@21da9",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@351ce",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@30696",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@3c787",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@3eb17",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@b36f2",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@344b8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@88cde",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@5b1ef",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1db64",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@abad0",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@303c8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@592d8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@afbd7",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@5f90a",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@21c50",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1f6a6",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@8abf8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1c2ef",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@4d374",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@2c2da",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@8e889",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@98bc1",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@dbed6",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@b7641",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1533f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@1c544",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@7930f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@81a5a",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@e2701",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@9e1eb",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@98765",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@d6036",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@e8db1",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@666fa",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@e4082",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@5d9e3",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@23e58",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@add79",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@44823",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@4406f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@6540a",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@3dce8",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@fd67c",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@ff329",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@76a91",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@7745f",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@df190",
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@be4e5"
+      ],
+      "scenes": [
+        "194a8050-adc3-47f1-ac55-8aafd54dcad5@619bc"
+      ]
+    }
+  }
+}

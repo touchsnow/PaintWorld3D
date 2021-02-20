@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "817f124f-e0eb-43da-a4dd-401127e452b4",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "817f124f-e0eb-43da-a4dd-401127e452b4@6c48a",
+      "displayName": "SkillBar",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "817f124f-e0eb-43da-a4dd-401127e452b4"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "817f124f-e0eb-43da-a4dd-401127e452b4@f9941",
+      "displayName": "SkillBar",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 115,
+        "height": 331,
+        "rawWidth": 115,
+        "rawHeight": 331,
+        "borderTop": 30,
+        "borderBottom": 30,
+        "borderLeft": 30,
+        "borderRight": 30,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "817f124f-e0eb-43da-a4dd-401127e452b4@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "817f124f-e0eb-43da-a4dd-401127e452b4@f9941"
+  }
+}

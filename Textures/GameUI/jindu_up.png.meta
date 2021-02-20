@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d7057b09-2084-415e-ba94-1c947527bf8e",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d7057b09-2084-415e-ba94-1c947527bf8e@6c48a",
+      "displayName": "jindu_up",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d7057b09-2084-415e-ba94-1c947527bf8e"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "d7057b09-2084-415e-ba94-1c947527bf8e@f9941",
+      "displayName": "jindu_up",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 608,
+        "height": 33,
+        "rawWidth": 608,
+        "rawHeight": 33,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 19,
+        "borderRight": 19,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d7057b09-2084-415e-ba94-1c947527bf8e@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "d7057b09-2084-415e-ba94-1c947527bf8e@f9941"
+  }
+}

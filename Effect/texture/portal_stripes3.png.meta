@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "55607665-37c5-40a8-ae9b-77b26be2407b",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "55607665-37c5-40a8-ae9b-77b26be2407b@6c48a",
+      "displayName": "portal_stripes3",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "55607665-37c5-40a8-ae9b-77b26be2407b"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "55607665-37c5-40a8-ae9b-77b26be2407b@6c48a"
+  }
+}

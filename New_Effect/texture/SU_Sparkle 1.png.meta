@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "db446648-527d-4639-9d13-ea2a37e6b26d",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "db446648-527d-4639-9d13-ea2a37e6b26d@6c48a",
+      "displayName": "SU_Sparkle 1",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "db446648-527d-4639-9d13-ea2a37e6b26d"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "db446648-527d-4639-9d13-ea2a37e6b26d@6c48a"
+  }
+}

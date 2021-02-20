@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "ae63ae86-b7d3-457f-a3c2-49c9dab92796",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "ae63ae86-b7d3-457f-a3c2-49c9dab92796@6c48a",
+      "displayName": "ShiZi",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ae63ae86-b7d3-457f-a3c2-49c9dab92796"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "ae63ae86-b7d3-457f-a3c2-49c9dab92796@f9941",
+      "displayName": "ShiZi",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "custom",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 4,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 468,
+        "height": 468,
+        "rawWidth": 468,
+        "rawHeight": 476,
+        "borderTop": 20,
+        "borderBottom": 20,
+        "borderLeft": 20,
+        "borderRight": 20,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ae63ae86-b7d3-457f-a3c2-49c9dab92796@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "ae63ae86-b7d3-457f-a3c2-49c9dab92796@f9941"
+  }
+}

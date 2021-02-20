@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "3b7dffc8-5ed7-4ec9-abb6-73d6c865708c",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "3b7dffc8-5ed7-4ec9-abb6-73d6c865708c@6c48a",
+      "displayName": "XinShouMen",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3b7dffc8-5ed7-4ec9-abb6-73d6c865708c"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "3b7dffc8-5ed7-4ec9-abb6-73d6c865708c@f9941",
+      "displayName": "XinShouMen",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "custom",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 3,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 468,
+        "height": 468,
+        "rawWidth": 468,
+        "rawHeight": 474,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3b7dffc8-5ed7-4ec9-abb6-73d6c865708c@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "3b7dffc8-5ed7-4ec9-abb6-73d6c865708c@f9941"
+  }
+}

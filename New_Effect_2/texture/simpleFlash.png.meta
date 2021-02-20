@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "abb88153-d394-4459-a39e-5c1cdaa01d27",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "abb88153-d394-4459-a39e-5c1cdaa01d27@6c48a",
+      "displayName": "simpleFlash",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "abb88153-d394-4459-a39e-5c1cdaa01d27"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "abb88153-d394-4459-a39e-5c1cdaa01d27@6c48a"
+  }
+}

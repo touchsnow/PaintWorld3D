@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "4361c70b-91f7-4a03-81de-439ffd20dbb2",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "4361c70b-91f7-4a03-81de-439ffd20dbb2@6c48a",
+      "displayName": "yuanhuan",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4361c70b-91f7-4a03-81de-439ffd20dbb2"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "4361c70b-91f7-4a03-81de-439ffd20dbb2@6c48a"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c6ca619d-8de1-46bc-812f-b49911169c37",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c6ca619d-8de1-46bc-812f-b49911169c37@6c48a",
+      "displayName": "QiMiaoGuoDu",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c6ca619d-8de1-46bc-812f-b49911169c37"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "c6ca619d-8de1-46bc-812f-b49911169c37@f9941",
+      "displayName": "QiMiaoGuoDu",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "custom",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 4,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 468,
+        "height": 468,
+        "rawWidth": 468,
+        "rawHeight": 476,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c6ca619d-8de1-46bc-812f-b49911169c37@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "c6ca619d-8de1-46bc-812f-b49911169c37@f9941"
+  }
+}
